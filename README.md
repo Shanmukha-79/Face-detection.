@@ -19,7 +19,3 @@ A web application that detects faces in uploaded images using AI technology.
 
 ## Installation
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/face-detection-app.git
-   cd face-detection-app
